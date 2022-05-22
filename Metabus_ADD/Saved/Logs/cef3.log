@@ -33,3 +33,4 @@
 [0522/230603.954:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0522/230604.199:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0522/230604.199:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0522/234021.435:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
